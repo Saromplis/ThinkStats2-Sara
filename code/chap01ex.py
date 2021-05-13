@@ -3,6 +3,7 @@ by Allen B. Downey, available from greenteapress.com
 
 Copyright 2014 Allen B. Downey
 License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
+this is just a trial to see if i can work this out
 """
 
 from __future__ import print_function
